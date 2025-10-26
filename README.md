@@ -1,2 +1,41 @@
-# EnglishLearn
-This is a repository of notes on learning English。
+# Language Learning Notes | 多语言学习笔记库
+
+**结构化语言学习档案库**，按年份/主题归档语言学习素材，当前主要以英语为主。
+
+```text
+📦 LangNotes
+├── 2024
+│   ├── other                     # 跨领域学习笔记
+│   │   ├── April.md              ▸ 商务英语/日常会话
+│   │    └── June.md               ▸ 文化差异笔记
+│   ├── technology               # 科技术语专题
+│   │   ├── encryption.md         ▸ 网络安全术语对照表
+│   │   └── news.md              ▸ 科技新闻精读
+│   ├── tennis                   # 网球主题学习
+│   │   ├── ATP_News.md          ▸ 赛事报道词汇解析
+│   │   └── other_word.md         ▸ 运动装备术语
+│    └── travel                   # 旅行场景用语
+│       ├── ChangbaiMountain.md  ▸ 登山场景对话模板
+│        └── southeast_asia.md     ▸ 东南亚国家地理名词
+├── 2025                         # 新版笔记体系
+│    └── 10月                     
+│       ├── 001.md               ▸ 周词汇表 (2025-10-01)
+│       └── 003.md                ▸ 错题复盘笔记
+└── README.md
+```
+
+## 🏁 **学习目标**
+
+| 项目        | 周期  | 达成标志                            |
+| --------- | --- | ------------------------------- |
+| **短期目标**  | 每月  | 词汇、听力、输出成果有记录  
+| **阶段性目标** | 每季度 | 新能力显著突破（Q1习惯、Q2阅读、Q3表达、Q4整合）    |                |
+| **长期目标**  | 全年  | 能用英语理解并表达技术内容（达到 CEFR B2–C1 水平） |
+
+## **学习计划**
+
+- [2025年学习计划](2025/README.md)
+
+## 学习资料
+
+- [离谱的英语学习指南/英语学习教程](https://github.com/byoungd/English-level-up-tips)
